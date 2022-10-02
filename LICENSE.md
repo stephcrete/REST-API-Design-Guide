@@ -1,4 +1,4 @@
-Copyright 2016-2018 National Bank of Belgium
+Copyright 2022 Statistics Canada
 
 Licensed under the ...;
 
